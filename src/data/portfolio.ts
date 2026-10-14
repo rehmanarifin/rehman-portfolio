@@ -60,7 +60,7 @@ export const projects: Project[] = [
 ];
 
 export const contact = {
-  email: "", // e.g. "you@example.com"
-  github: "", // e.g. "https://github.com/username"
-  linkedin: "", // e.g. "https://linkedin.com/in/username"
+  email: "rehmanarifin@gmail.com",
+  github: "https://github.com/rehmanarifin",
+  linkedin: "https://www.linkedin.com/in/rehmanarifin",
 };
