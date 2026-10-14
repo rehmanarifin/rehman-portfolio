@@ -47,15 +47,7 @@ export const projects: Project[] = [
     description:
       "A command-line project focused on organizing a gaming library and managing collections using data structures.",
     tech: ["C", "Data Structures"],
-    github: "",
-  },
-  {
-    title: "Personal Portfolio Website",
-    description:
-      "A personal website showcasing my profile, education, skills, and software development projects.",
-    tech: ["React", "TypeScript", "Tailwind CSS"],
-    github: "",
-    demo: "",
+    github: "https://github.com/rehmanarifin/Steam_Project",
   },
 ];
 
